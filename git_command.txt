@@ -12,4 +12,4 @@
    git remote -v
    git push origin master
 
-this is a basic command of git 
+this is a basic command of git .
